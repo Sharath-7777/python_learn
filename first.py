@@ -1,1 +1,5 @@
-print("hello world")
+
+def fun():
+    print("hello world")
+
+fun()    
